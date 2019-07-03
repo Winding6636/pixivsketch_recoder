@@ -1,2 +1,3 @@
 # pixivsketch_recoder
-Pixiv Sketch https://sketch.pixiv.net Follow User Auto Recoding. Powerd by streamlink
+Pixiv Sketch https://sketch.pixiv.net Record WebUI
+base system : livedl project
