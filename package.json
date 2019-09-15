@@ -1,0 +1,15 @@
+{
+  "name": "lvarchiver",
+  "version": "0.0.1",
+  "description": "lvarchiver SketchLive Recorder by typescript",
+  "main": "main.js",
+  "author": "Winding",
+  "license": "MIT",
+  "private": true,
+
+  "scripts": {
+    "test": "echo \"test\" &&exit 1",
+    "dev": "tsc -w",
+    "build": "tsc"
+  }
+}
